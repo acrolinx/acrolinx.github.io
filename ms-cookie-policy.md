@@ -1,5 +1,5 @@
 ---
-title: Cookie Policy
+site_name: Cookie Policy
 ---
 # Cookie Policy
 
