@@ -1,6 +1,10 @@
 ---
 site_name: Cookie Policy
 ---
+<!---
+This page is linked on the Acrolinx dashboard start page for MS. Please do not remove this file or repo from GitHub without updating the corresponding links on the Dashboards. /Moe
+
+-->
 # Cookie Policy
 
 Acrolinx as a supplier/processor of Microsoft services uses cookies on this website.
