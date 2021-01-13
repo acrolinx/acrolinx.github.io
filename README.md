@@ -1,3 +1,6 @@
+---
+title: Cookie Policy
+---
 # Cookie Policy
 
 Acrolinx as a supplier/processor of Microsoft services uses cookies on this website.
