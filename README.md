@@ -18,6 +18,6 @@ The following cookies are used on this website:
 | X-Acrolinx-Auth    | Authentication/Single-Sign-On | Session | Functional |
 | acrolinx_user_locale | Locale | 7 days | Comfort |
 | acrolinx.user.changingLocale | Locale | Session | Comfort |
-| JSESSIONID / X-Acrolinx-Analytics-Session Dashboard Term Browser Term Browser Translation View Term Contribution | Providing correct session handling information to the server | Session | Functional |
-| nlbi_* | Secure application against threats and third party attacks; DDoS Protectiona and Web Application Firewall | Session | Functional |
+| JSESSIONID / X-Acrolinx-Analytics-Session <br />Dashboard <br />Term Browser <br />Term Browser Translation View <br />Term Contribution | Providing correct session handling information to the server | Session | Functional |
+| nlbi_* | Secure application against threats and third party attacks; DDoS Protection and Web Application Firewall | Session | Functional |
 | visid_incap_* | Secure application against threats and third party attacks; Incapsula DDoS Protectiona and Web Application Firewall: cookie for linking certain sessions to a specific visitor (visitor representing a specific computer). | Persistent / 12 months | Functional |
